@@ -2,7 +2,7 @@
 
 AI Code Reviewer is a full-stack web application that allows users to input code and get real-time reviews and suggestions using the **Google AI API**. It features a sleek dark-themed UI and a lightweight Express.js backend.
 
-![screenshot](![image](https://github.com/user-attachments/assets/ac19ec0c-b9dd-4248-93a3-523d2785358f)
+![screenshot]((https://github.com/user-attachments/assets/ac19ec0c-b9dd-4248-93a3-523d2785358f)
 ) <!-- Replace with your actual image path if available -->
 
 ---
